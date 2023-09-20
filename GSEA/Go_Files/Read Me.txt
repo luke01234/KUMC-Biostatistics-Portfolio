@@ -1,0 +1,7 @@
+This folder contains the Go_Files used inside the GSEA function.
+
+These files were retreived from here: https://www.gsea-msigdb.org/gsea/msigdb/index.jsp and here https://github.com/broadinstitute/ssGSEA2.0/blob/master/db/msigdb/c5.bp.v7.0.symbols.gmt
+
+The Go_File that was chosen during each run would determine which gene activity pathways would be analyzed by the GSEA function.
+
+For the most part we opted to use the "c5.bp.v7.0.symbols.gmt" file.
