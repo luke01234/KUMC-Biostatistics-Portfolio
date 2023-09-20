@@ -1,0 +1,1 @@
+This folder contains the script I made in order to intersect the protein names from our topS file with the gene names that were given to me by my supervisor.
